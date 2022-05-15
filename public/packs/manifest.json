@@ -1,0 +1,54 @@
+{
+  "application.js": "/packs/js/application-a518f1834fbc14443fb5.js",
+  "application.js.map": "/packs/js/application-a518f1834fbc14443fb5.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-a518f1834fbc14443fb5.js"
+      ],
+      "js.map": [
+        "/packs/js/application-a518f1834fbc14443fb5.js.map"
+      ]
+    },
+    "posts-index": {
+      "js": [
+        "/packs/js/posts-index-2b639725f45d70e0e9d9.js"
+      ],
+      "js.map": [
+        "/packs/js/posts-index-2b639725f45d70e0e9d9.js.map"
+      ]
+    },
+    "posts-show": {
+      "js": [
+        "/packs/js/posts-show-2612064e6fa28aa4bc8e.js"
+      ],
+      "js.map": [
+        "/packs/js/posts-show-2612064e6fa28aa4bc8e.js.map"
+      ]
+    },
+    "utils/createApolloClient": {
+      "js": [
+        "/packs/js/utils/createApolloClient-50ed86b70d30b124f0a2.js"
+      ],
+      "js.map": [
+        "/packs/js/utils/createApolloClient-50ed86b70d30b124f0a2.js.map"
+      ]
+    },
+    "utils/renderComponent": {
+      "js": [
+        "/packs/js/utils/renderComponent-5f4ddad141ee117ea7b4.js"
+      ],
+      "js.map": [
+        "/packs/js/utils/renderComponent-5f4ddad141ee117ea7b4.js.map"
+      ]
+    }
+  },
+  "posts-index.js": "/packs/js/posts-index-2b639725f45d70e0e9d9.js",
+  "posts-index.js.map": "/packs/js/posts-index-2b639725f45d70e0e9d9.js.map",
+  "posts-show.js": "/packs/js/posts-show-2612064e6fa28aa4bc8e.js",
+  "posts-show.js.map": "/packs/js/posts-show-2612064e6fa28aa4bc8e.js.map",
+  "utils/createApolloClient.js": "/packs/js/utils/createApolloClient-50ed86b70d30b124f0a2.js",
+  "utils/createApolloClient.js.map": "/packs/js/utils/createApolloClient-50ed86b70d30b124f0a2.js.map",
+  "utils/renderComponent.js": "/packs/js/utils/renderComponent-5f4ddad141ee117ea7b4.js",
+  "utils/renderComponent.js.map": "/packs/js/utils/renderComponent-5f4ddad141ee117ea7b4.js.map"
+}

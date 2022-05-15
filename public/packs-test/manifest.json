@@ -1,0 +1,64 @@
+{
+  "application.js": "/packs-test/js/application-00d990f308f1b95e6ad3.js",
+  "application.js.map": "/packs-test/js/application-00d990f308f1b95e6ad3.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs-test/js/application-00d990f308f1b95e6ad3.js"
+      ],
+      "js.map": [
+        "/packs-test/js/application-00d990f308f1b95e6ad3.js.map"
+      ]
+    },
+    "graphql_queries": {
+      "js": [
+        "/packs-test/js/graphql_queries-598db4631f02c04c7521.js"
+      ],
+      "js.map": [
+        "/packs-test/js/graphql_queries-598db4631f02c04c7521.js.map"
+      ]
+    },
+    "posts-index": {
+      "js": [
+        "/packs-test/js/posts-index-ac9c7dc4790df5162442.js"
+      ],
+      "js.map": [
+        "/packs-test/js/posts-index-ac9c7dc4790df5162442.js.map"
+      ]
+    },
+    "posts-show": {
+      "js": [
+        "/packs-test/js/posts-show-3cdcc5cc52ff37678026.js"
+      ],
+      "js.map": [
+        "/packs-test/js/posts-show-3cdcc5cc52ff37678026.js.map"
+      ]
+    },
+    "utils/createApolloClient": {
+      "js": [
+        "/packs-test/js/utils/createApolloClient-7ba4f2ef816720714f9e.js"
+      ],
+      "js.map": [
+        "/packs-test/js/utils/createApolloClient-7ba4f2ef816720714f9e.js.map"
+      ]
+    },
+    "utils/renderComponent": {
+      "js": [
+        "/packs-test/js/utils/renderComponent-6d574f2615a38328a967.js"
+      ],
+      "js.map": [
+        "/packs-test/js/utils/renderComponent-6d574f2615a38328a967.js.map"
+      ]
+    }
+  },
+  "graphql_queries.js": "/packs-test/js/graphql_queries-598db4631f02c04c7521.js",
+  "graphql_queries.js.map": "/packs-test/js/graphql_queries-598db4631f02c04c7521.js.map",
+  "posts-index.js": "/packs-test/js/posts-index-ac9c7dc4790df5162442.js",
+  "posts-index.js.map": "/packs-test/js/posts-index-ac9c7dc4790df5162442.js.map",
+  "posts-show.js": "/packs-test/js/posts-show-3cdcc5cc52ff37678026.js",
+  "posts-show.js.map": "/packs-test/js/posts-show-3cdcc5cc52ff37678026.js.map",
+  "utils/createApolloClient.js": "/packs-test/js/utils/createApolloClient-7ba4f2ef816720714f9e.js",
+  "utils/createApolloClient.js.map": "/packs-test/js/utils/createApolloClient-7ba4f2ef816720714f9e.js.map",
+  "utils/renderComponent.js": "/packs-test/js/utils/renderComponent-6d574f2615a38328a967.js",
+  "utils/renderComponent.js.map": "/packs-test/js/utils/renderComponent-6d574f2615a38328a967.js.map"
+}
